@@ -1,0 +1,13 @@
+.container {
+  position: relative;
+  overflow: hidden;
+  /* background-image: url('./193587.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background: hsla(154, 100%, 76%, 1);
+  background: linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%);
+  background: -moz-linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%);
+  background: -webkit-linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#84ffc9", endColorstr="#aab2ff", GradientType=1);
+}
